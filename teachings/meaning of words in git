@@ -1,6 +1,6 @@
 Git: keep track of changes across files , it is a VERSION CONTROL SYSTEM(VCS), a local REPO.
 
-Github: a social media to programmers where they show they Repo.
+Github: a social media to programmers where they show they Repo, Remote server.
 
 Versioning:multiple versions of the same thing.
 
@@ -10,4 +10,10 @@ Comit: a save-point ,it records a file to a local Repo.
 
 Push: upload local repo to a remote Repo.
 
+Branch: A separate line of code development.
 
+Clone: clone blocks of code from a remote server to a local Repo.
+
+Push:
+
+Pull:
