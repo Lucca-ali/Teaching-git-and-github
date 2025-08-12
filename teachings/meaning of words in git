@@ -16,4 +16,4 @@ Clone: clone blocks of code from a remote server to a local Repo.
 
 Push: send commits and ask to update their  branch.
 
-Pull:gets all the changes to your remote repo to your local
+Pull:gets all the changes to your remote repo to your local.
