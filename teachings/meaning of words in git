@@ -6,7 +6,7 @@ Versioning:multiple versions of the same thing.
 
 Repo: a repository that keeps trices of files history.
 
-Comit: a save-point ,it records a file to a local Repo.
+Comit: a save-point,a snapchot,it records a file to a local Repo.
 
 Push: upload local repo to a remote Repo.
 
