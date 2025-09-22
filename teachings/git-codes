@@ -1,6 +1,12 @@
 basic commands:
 cd .. com back to the upper paste
 
+ls show content of the directories 
+
+mkdir creates a new directory
+
+touch <filename> creates a new file
+
 git config --global user.name "name" configurates your name into git 
 
 git config --global user.name "email" configurates your email into git
@@ -46,7 +52,11 @@ git branch --sort=-committerdate list  List branches by most recently commited t
 
 git branch -d <name> delete a branch 
 
-git 
+git push -u origin <name> push a branch you never pushed before
+
+git push origin main push the main branch to the remote
+
+git remote add <name>(mostly called origin) <url> add a remote repository
 
 
 
