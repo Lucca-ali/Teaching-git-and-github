@@ -47,6 +47,10 @@ git log <file> show every commit of a file
 git branch list all branches
 
 git switch -c <name> create a branch
+git checkout -b <name>
+
+git switch <name> switch between branches
+git checkout <name>
 
 git branch --sort=-committerdate list  List branches by most recently commited to.
 
