@@ -19,6 +19,8 @@ git commit -m "Message" Make a commit
 
 git commit -am "message" commit all unstaged changes
 
+git diff <commit> <commit> show the diference between 2 commits
+
 git add -p choose which part to stage
 
 git rm <file>delete file
@@ -35,5 +37,16 @@ git log main show the full commit history
 git log --graph main show the ASCII representation of a commit graph
 git log --oneline show a single line summary
 git log <file> show every commit of a file
+
+git branch list all branches
+
+git switch -c <name> create a branch
+
+git branch --sort=-committerdate list  List branches by most recently commited to.
+
+git branch -d <name> delete a branch 
+
+git 
+
 
 
