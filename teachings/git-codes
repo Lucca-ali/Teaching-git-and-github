@@ -1,0 +1,39 @@
+basic commands:
+cd .. com back to the upper paste
+
+git config --global user.name "name" configurates your name into git 
+
+git config --global user.name "email" configurates your email into git
+
+git config --list  show git's config sistem(variables),along their values,it can be used to show things such as email and name(use q to get out if you see (END)or use :wq)
+
+git init create a new repo
+
+git clone <url> it clones a existing repo
+
+git add <file> add untracked files
+
+git add . add all untracked files
+
+git commit -m "Message" Make a commit
+
+git commit -am "message" commit all unstaged changes
+
+git add -p choose which part to stage
+
+git rm <file>delete file
+
+git rm --cached <file> forget a file without deleting it
+
+git reset <file> unstage one file
+
+git reset unstage everything
+
+git status check what you added
+
+git log main show the full commit history
+git log --graph main show the ASCII representation of a commit graph
+git log --oneline show a single line summary
+git log <file> show every commit of a file
+
+
