@@ -14,6 +14,7 @@ Branch: A separate line of code development.
 
 Clone: clone blocks of code from a remote server to a local Repo.
 
-Push: send commits and ask to update their  branch.
+Pull:update your local repository with things from the remote repository.
 
-Pull:gets all the changes to your remote repo to your local.
+
+
